@@ -1,0 +1,6 @@
+{
+  "name": "Isometric Zombie Survival",
+  "description": "A top-down mobile survival game with an isometric 2.5D perspective where you fight waves of zombies, craft weapons, and defeat bosses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
